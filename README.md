@@ -1,2 +1,2 @@
-# CRUD-mongodb
-A simple NodeJS and MongoDB CRUD app. Using ExpressJS, NodeJS, Mongodb, mongoose and Bootstrap 4.
+# CRUD-MEVN Stack
+A simple MEVN Stack app. Using MongoDB, Express, and NodeJS along with Vue.
